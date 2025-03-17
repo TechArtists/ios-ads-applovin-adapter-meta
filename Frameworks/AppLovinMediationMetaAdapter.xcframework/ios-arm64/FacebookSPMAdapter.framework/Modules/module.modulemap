@@ -1,0 +1,6 @@
+framework module FacebookSPMAdapter {
+  umbrella header "FacebookSPMAdapter.h"
+  export *
+
+  module * { export * }
+}
